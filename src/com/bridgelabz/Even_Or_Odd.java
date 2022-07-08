@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Even_Or_Odd {
     public static void main(String[] args) {
 
-        int number = 221;
+        int number = 26;
         int remainder;
 
         // module

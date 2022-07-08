@@ -6,7 +6,8 @@ public class PowerOf2 {
     public static void main(String[] args) {
 
         // read in one command-line argument
-        int n = 6;
+        int n = 5 ;
+
 
         System.out.println(" 2 Power of :" );
 
