@@ -3,9 +3,9 @@ package Assainment_6;
 public class Prime_number {
     public static void main(String[] args) {
 
-        int num = 3;
+        int num = 17;
         boolean flag = false;
-        for (int i = 2; i <= num / 2; ++i) {
+        for (int i = 2; i <= num / 2; i++) {
             // condition for nonprime number
             if (num % i == 0) {
                 flag = true;

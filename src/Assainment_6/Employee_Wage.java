@@ -41,8 +41,8 @@ public class Employee_Wage {
                 day++;
             }
 
-            System.out.println("Total Hours Worked: "+workingHours);
-            System.out.println("Total Days Worked: "+day);
+            System.out.println("Total Working Hours: "+workingHours);
+            System.out.println("Total Working Days: "+day);
             System.out.println("Employee Monthly Wage = Rs. "+ totalWage);
         }
     }
